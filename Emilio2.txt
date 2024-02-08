@@ -1,2 +1,2 @@
-Taller de Linux - 7 de Febrero del 2024.
-The Game.
+Este es un archivo del branch nueva_funcion
+.emaG ehTThe Game.
